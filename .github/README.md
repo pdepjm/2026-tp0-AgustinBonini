@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Agustín Bonini
+#  ¡Hola! Soy Agustín Bonini
 
 (**Legajo: 232.935-9**)
 
@@ -9,7 +9,7 @@ Soy un apasionado de la tecnología y el conocimiento.
 ### Intereses
 * **Tecnología:** Ciberseguridad, electrónica, desarrollo de software...
 * **Diseño:** Modelado y diseño 3D.
-* **Deportes:** Fútbol.
+* **Deportes:** Fútbol y análisis estadístico (Football Analytics).
 
 ---
 
